@@ -1,3 +1,24 @@
+# Tutorial: Intro to React
+
+Using the React framework to build a component-based tic-tac-toe game which stores a game's history as the game progresses.
+
+The original tutorial can be found [here](https://reactjs.org/tutorial/tutorial.html#picking-a-key).
+
+If you have extra time or want to practice your new React skills, here are some ideas for improvements that you could make to the tic-tac-toe game which are listed in order of increasing difficulty:
+
+1. Display the location for each move in the format (col, row) in the move history list.
+
+2. Bold the currently selected item in the move list.
+
+3. Rewrite Board to use two loops to make the squares instead of hardcoding them.
+
+4. Add a toggle button that lets you sort the moves in either ascending or descending order.
+
+5. When someone wins, highlight the three squares that caused the win.
+
+6. When no one wins, display a message about the result being a draw.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
